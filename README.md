@@ -1,7 +1,7 @@
 # MapKit
 Display annotations, build routes, display location information, change the map style
 
-###### Screens
+### Screens
 
 If you are going to San Francisco...
 
